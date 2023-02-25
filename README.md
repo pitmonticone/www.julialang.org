@@ -48,7 +48,7 @@ Navigate to `localhost:8000` in a browser and you should see a preview of any mo
 
 **Modifying the HTML structure**: if you want to modify the navbar, or the footer, go to `_layout/` and modify the relevant template fragment.
 
-**Modifying the landing page**: since the landing page has its own design, it is written in HTML with a few insertions of repurposeable fragments where appropriate, just modify `index.html`
+**Modifying the landing page**: since the landing page has its own design, it is written in HTML with a few insertions of repurposable fragments where appropriate, just modify `index.html`
 
 ## Adding a blog post
 
@@ -102,7 +102,7 @@ Copy the library from `build/highlight.min.js` to `_libs/highlight/highlight.min
 
 ## Build Previews on Netlify
 
-Currently, the build previews are run through [Logan Kilpatrick's](https://github.com/logankilpatrick) Netlify account. If the account goes offline and the previews are no longer availabe, all you need to do to restore them is sign up for Netlify, import a git repisitory (this repo), select the "gh-preview" branch, and then make the custom sub-domain "julialang.netlify.com". You should then be able to build the previews accordingly.
+Currently, the build previews are run through [Logan Kilpatrick's](https://github.com/logankilpatrick) Netlify account. If the account goes offline and the previews are no longer available, all you need to do to restore them is sign up for Netlify, import a git repository (this repo), select the "gh-preview" branch, and then make the custom sub-domain "julialang.netlify.com". You should then be able to build the previews accordingly.
 
 ## FAQ
 

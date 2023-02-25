@@ -93,7 +93,7 @@ by third party packages, which generally have their own documentation,
 so this is often a simple matter of adapting existing documentation to
 MLJ syntax. 
 
-The models wrapped from sckit-learn (about 70) constitute a separate
+The models wrapped from scikit-learn (about 70) constitute a separate
 case, as the available documentation is in python and not
 Julia. Initially, docstrings for these models will simply quote the
 python documentation. However, generating these [may
